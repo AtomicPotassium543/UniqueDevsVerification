@@ -1,6 +1,4 @@
 from disnake.ext import commands
-import disnake
-from config import config
 from dotenv import load_dotenv
 import os
 
