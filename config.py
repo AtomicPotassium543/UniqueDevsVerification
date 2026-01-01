@@ -1,3 +1,5 @@
+cogs = ["cogs.Verify", "cogs.RevokeCommand", "cogs.ReviewUpload"]
+
 db = "UniqueDevsVerification"
 
 Main_server = 111111111111111111
