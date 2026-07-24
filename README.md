@@ -3,6 +3,7 @@ Unique Verification (Version management)
 </h1>
 <hr>
 <div>
+    <p>An automatic application system (discord bot) made using Python & MongoDB.</p>
     <h2>
          📁 Files & folders description:
     </h2>
